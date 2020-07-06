@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "361661086668",
+    "firebase_url": "https://kabarak-mobile-application.firebaseio.com",
+    "project_id": "kabarak-mobile-application",
+    "storage_bucket": "kabarak-mobile-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361661086668:android:8fbb15f86112877fd5bb69",
+        "android_client_info": {
+          "package_name": "com.example.studentorient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361661086668-0on5581cfhjodp96fr4b1kroupun7r0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA07JbNC6BCZjg2hRyG0tlIn4AObt7g79Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361661086668-0on5581cfhjodp96fr4b1kroupun7r0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
