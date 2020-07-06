@@ -1,4 +1,4 @@
-##Kabarak University Student Orient Application
+Kabarak University Student Orient Application
 
-Student Orientation Application
+This is a Kabarak University Android Application to facilitate easy access of academic services by students.
 
